@@ -1,0 +1,10 @@
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+C:\Users\62813\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
